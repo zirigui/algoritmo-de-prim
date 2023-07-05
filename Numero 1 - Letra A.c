@@ -133,6 +133,8 @@ int main() {
     
     prim_mst(G);
 
-    return 0;
+	system("pause");
+    
+	return 0;
 }
 
